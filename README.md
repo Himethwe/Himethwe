@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Himeth Weerakkody
 
-<!--
-**Himethwe/Himethwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Undergraduate in **Applied Data Science and Communication**  
+💡 Turning data into insights using code, visuals, and creativity  
+🌍 Based in Sri Lanka
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Core Skills
+
+- 🐍 **Python** – data analysis, automation, dashboards (Plotly Dash)
+- 📊 **R** – statistical modeling, data mining, Shiny apps
+- 🧠 **SQL** – querying, transforming, and managing structured data
+- 🔥 **PySpark** – big data processing and scalable pipelines
+- 📈 **Power BI** – interactive business reports and data storytelling
+
+---
+
+## 🎯 Goals
+
+- Use data science to solve real-world problems
+- Grow as a communicator who can turn complex data into clear insights
+  
+---
+
+## 📫 Connect with Me
+
+📧 [himethwe2003@gmail.com](mailto:himethwe2003@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/himeth-weerakkody/)
+
+---
+
+_Thanks for visiting! Let's build with data._ 🚀
