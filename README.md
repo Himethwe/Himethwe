@@ -26,7 +26,7 @@
 ## 📫 Connect with Me
 
 📧 [himethwe2003@gmail.com](mailto:himethwe2003@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/himeth-weerakkody/)
+🔗 [LinkedIn](https://www.linkedin.com/in/himeth-weerakkody-196841355/)
 
 ---
 
